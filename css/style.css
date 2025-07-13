@@ -1534,7 +1534,7 @@ input[type="text"] {
   background: #ffffff;
   border-radius: 12px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
-  max-width: 350px;
+  max-width: 550px;
   padding: 20px;
   text-align: center;
   transition: transform 0.3s ease;
